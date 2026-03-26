@@ -1,86 +1,120 @@
-# Полезные ссылки
+# Полезные ссылки по автоматизации
 
-**Telegram**
+## E2E веб-тестирование
 
-* [Подборка сообществ в помощь QA automation инженеру](https://t.me/qa\_automation/72650)
-* Большая подборка чатов @[it\_chats](https://t.me/it\_chats)
-* [Чат для студентов БЕСПЛАТНОЙ ШКОЛЫ QA automation для всех](https://t.me/qadlyavsex) + [F.A.Q.](https://docs.google.com/spreadsheets/d/1-gvkhk4HcDlstBDewwjH5bXon4rxW3KCDLs6C9bxJg4/edit#gid=0)
-* Чат для начинающих автоматизаторов @[aqa\_chatka](https://t.me/aqa\_chatka)
-
-**Репозитории**
-
+* [Playwright — документация](https://playwright.dev)
+* [Playwright — Best Practices](https://playwright.dev/docs/best-practices)
+* [Awesome Playwright](https://github.com/mxschmitt/awesome-playwright)
+* [Cypress — документация](https://docs.cypress.io)
+* [Selenium — документация](https://www.selenium.dev/documentation/)
 * [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium#readme)
-* [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme)
-* [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme)
-* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter#readme)
-* [Awesome k6](https://github.com/grafana/awesome-k6#readme)
-* [Awesome Playwright](https://github.com/mxschmitt/awesome-playwright#readme)
-* [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling#readme)
-* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter#readme)
-* [10 интересных репозиториев на GitHub, полезных любому разработчику](https://habr.com/ru/company/plarium/blog/496472/)
-* [Android UI Testing Cookbook](https://android-ui-testing.github.io/Cookbook/home/)
-* [Репозитории Android](https://github.com/fleytman/mob\_tools/blob/main/manuals/ru/%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8\_android.md)
-* [Репозитории iOS](https://github.com/fleytman/mob\_tools/blob/main/manuals/ru/%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8\_ios.md)
+* [WebdriverIO — документация](https://webdriver.io)
+* [E2E-тестирование и Cypress](https://testengineer.ru/e2e-testirovanie-i-cypress/)
 
-**Youtube**
+## Мобильная автоматизация
+
+* [Appium 2.x — документация](https://appium.io/docs/en/latest/)
+* [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme)
+* [Maestro — документация](https://maestro.mobile.dev)
+* [Detox — документация](https://wix.github.io/Detox)
+* [Android UI Testing Cookbook](https://android-ui-testing.github.io/Cookbook/home/)
+* [Kaspresso (Android)](https://github.com/KasperskyLab/Kaspresso)
+* [Репозитории Android](https://github.com/fleytman/mob_tools/blob/main/manuals/ru/Репозитории_android.md)
+* [Репозитории iOS](https://github.com/fleytman/mob_tools/blob/main/manuals/ru/Репозитории_ios.md)
+* [Эмуляторы и симуляторы vs реальные устройства](https://habr.com/ru/company/otus/blog/596371/)
+
+## API-тестирование
+
+* [Bruno — документация](https://docs.usebruno.com)
+* [Hoppscotch](https://hoppscotch.io)
+* [REST Assured — документация](https://rest-assured.io)
+* [Playwright API Testing](https://playwright.dev/docs/api-testing)
+* [Тестирование API с помощью REST Assured](https://medium.com/@svetlana.podv/тестирование-api-с-помощью-rest-assured-2654f9b1faab)
+
+## Нагрузочное тестирование
+
+* [k6 (Grafana) — документация](https://k6.io/docs)
+* [Awesome k6](https://github.com/grafana/awesome-k6#readme)
+* [Gatling — документация](https://gatling.io/docs/)
+* [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling#readme)
+* [JMeter — документация](https://jmeter.apache.org)
+* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter#readme)
+
+## CI/CD
+
+* [GitHub Actions — документация](https://docs.github.com/en/actions)
+* [GitLab CI — документация](https://docs.gitlab.com/ee/ci/)
+* [Playwright CI Guide](https://playwright.dev/docs/ci)
+* [Строим домашний CI/CD с GitHub Actions](https://habr.com/ru/post/476368/)
+* [Зачем CI/CD тестировщикам?](https://habr.com/ru/company/JetBrains/blog/650757/)
+* [Идеальный пайплайн в вакууме](https://habr.com/ru/company/rabota/blog/560922/)
+* [Создаем инфраструктуру для интеграционных тестов](https://habr.com/ru/company/2gis/blog/575688/)
+
+## Инфраструктура и контейнеры
+
+* [Testcontainers — документация](https://testcontainers.com)
+* [Selenoid — документация](https://aerokube.com/selenoid/latest/)
+* [Docker image от Avito (Android)](https://avito-tech.github.io/avito-android/docs/ci/containers/)
+* [Что такое Docker](https://www.software-testing.ru/library/testing/testing-for-beginners/3661-docker)
+* [Автотесты и Docker](https://testengineer.ru/avtotesty-i-docker/)
+
+## Визуальное регрессионное тестирование
+
+* [Playwright: Visual comparisons](https://playwright.dev/docs/test-snapshots)
+* [Percy — документация](https://docs.percy.io)
+* [Chromatic — документация](https://www.chromatic.com/docs/)
+* [Applitools Eyes — документация](https://applitools.com/docs/)
+* [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme)
+
+## Отслеживание flaky-тестов
+
+* [BuildPulse](https://buildpulse.io)
+* [Currents.dev](https://currents.dev)
+* [Flaky-тесты: Откуда ноги растут. Опыт Uber](https://habr.com/ru/post/565806/)
+
+## Отчётность
+
+* [Allure Framework — документация](https://allurereport.org)
+* [Playwright HTML Report](https://playwright.dev/docs/test-reporters)
+* [Интеграция с Allure](https://habr.com/ru/company/wrike/blog/588873/)
+
+## Исследования и статистика
+
+* [State of JS — Testing section](https://stateofjs.com)
+* [JetBrains DevEcosystem 2024](https://www.jetbrains.com/lp/devecosystem-2024/)
+* [GitHub Octoverse](https://octoverse.github.com)
+* [World Quality Report 2024](https://www.sogeti.com/world-quality-report/)
+
+## Карьера и обучение
+
+* [Test Automation University (Applitools)](https://testautomationu.applitools.com)
+* [Программирование на Python (Stepik)](https://stepik.org/course/67/info)
+* [Автоматизация тестирования с помощью Selenium и Python (Stepik)](https://stepik.org/course/575/info)
+* [Введение в Kotlin JVM (Stepik)](https://stepik.org/course/5448/info)
+* [Лучшие сайты для практики автоматизации тестирования](https://habr.com/ru/post/549450/)
+* [touchbit/automatron — Trainer for beginner autotesters](https://github.com/touchbit/automatron)
+* [Codewars](https://www.codewars.com), [LeetCode](https://leetcode.com), [HackerRank](https://www.hackerrank.com)
+
+## Telegram-сообщества
+
+* [Подборка сообществ QA automation инженеру](https://t.me/qa_automation/72650)
+* Чат для начинающих автоматизаторов @[aqa_chatka](https://t.me/aqa_chatka)
+* Большая подборка IT-чатов @[it_chats](https://t.me/it_chats)
+
+## Полезные YouTube-каналы
 
 * [Eugene Suleimanov](https://www.youtube.com/c/EugeneSuleimanov/featured)
-* [alishev](https://www.youtube.com/c/alishevN)
-* [Тестировщик](https://www.youtube.com/c/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA/featured)
-* [Антон Семенченко](https://www.youtube.com/results?search\_query=%D0%90%D0%BD%D1%82%D0%BE%D0%BD+%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)
 * [dmdev](https://www.youtube.com/c/dmdev)
 * [Лёша Маршал](https://www.youtube.com/channel/UCTVciJQp8eYwKLLQIl-iSJw)
-* [SDET- QA Automation Techie](https://www.youtube.com/c/pavanoltraining)
-* [Автоматизация CI/CD - Полный Курс на Простом Языке](https://www.youtube.com/watch?v=cyb10iplv7U)
-* [Плейлист “Автоматизация с нуля”](https://www.youtube.com/playlist?list=PLWKsep\_LKQYq\_QRa4ROEjLse7jDbiSl-H)
-* [Плейлист “Python - Starter](https://www.youtube.com/playlist?list=PLvItDmb0sZw8RfG5odrtstiYkmiPg\_Yo\_)”
-* [Плейлист Курс программирования - "Python Essential"](https://www.youtube.com/playlist?list=PLvItDmb0sZw\_MVK2txwtBSHAzaYRrOdiJ)
-* [Плейлист “Вебинары Python”](https://www.youtube.com/playlist?list=PLvItDmb0sZw\_x1QivR1pTQ6tAK8Awb57L)
-* [Плейлист “Практики и инструменты DevOps”](https://www.youtube.com/playlist?list=PLvItDmb0sZw\_xTNDv8Bb1fsivN\_Z\_4oo9)
-* [Годные туториалы на YouTube](https://habr.com/ru/company/edison/blog/434034/)
-* [Плейлист "Программирование на Kotlin (весна 2018)"](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRWQNlOIhvCV9aquTH-Y0eU)
+* [SDET - QA Automation Techie](https://www.youtube.com/c/pavanoltraining)
 
-**Курсы**
+## Книги
 
-* [Лекции от Всеволода Брекелова](https://github.com/volekerb/testing-lectures/tree/master/lectures\_v\_2021)
-* [Питонтьютор - бесплатный курс по программированию с нуля на Python](http://pythontutor.ru)
-* [Программирование на Python](https://stepik.org/course/67/info)
-* [Python: основы и применение](https://stepik.org/course/512/info)
-* [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/info)
-* [Бесплатный курс “Введение в программирование”](https://ru.hexlet.io/courses/introduction\_to\_programming)
-* [Test Automation University](https://testautomationu.applitools.com)
-* [Continuous Integration with Jenkins](https://learn.epam.com/detailsPage?id=62dc3947-e941-4c30-ba32-552eb363978e)
-* [Автоматизированное тестирование с нуля / Полный курс за 3 часа / selenium + testng](https://www.youtube.com/watch?v=L2jMIJy0u90)
-* [Python за месяц](https://habr.com/ru/company/edison/blog/474212/)
-* [Как научиться разработке на Python: новый видеокурс Яндекса](https://habr.com/ru/company/yandex/blog/498856/)
-* [Python.org рекомендует: Программирование для НЕпрограммистов](https://habr.com/ru/company/skillfactory/blog/480898/)
-* [Введение в Kotlin JVM](https://stepik.org/course/5448/info)
-* [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792/info)
-* [Разработка мобильных приложений для Android](https://stepik.org/course/5703/info)
-
-**Сборники материалов по автоматизации**
-
-* [What Is Automation Testing (Ultimate Guide To Start Test Automation)](https://www.softwaretestinghelp.com/automation-testing-tutorial-1/)
-
-**Книги**
-
-* Swaroop Chitlur - A Byte of Python (есть в переводе)
-* [Цикл статей с переводом Okken Brian - Python Testing with pytest](https://habr.com/ru/post/448782/)
-* [Топ-10 книг для разработчика](https://habr.com/ru/post/504276/)
-
-**Статьи**
+* Swaroop Chitlur — A Byte of Python (есть перевод)
+* [Python Testing with pytest — перевод на Habr](https://habr.com/ru/post/448782/)
 * [Сайт Мартина Фаулера, тег "testing"](https://martinfowler.com/tags/testing.html)
 
-**Площадки для тренировки**
+## Источники
 
-* [Лучшие сайты для практики автоматизации тестирования](https://habr.com/ru/post/549450/)
-* [Демо-сайты для практики тест-автоматизации](https://software-testing.ru/component/content/article/3806-qa-tester-beginner-series-a-beginners-guide-to-page-object-model-pom-and-page-factory)
-* [Сайты-песочницы, на которых можно практиковать написание автотестов](https://blog.noveogroup.ru/2020/01/testovye-ploschadki-dlya-trenirovok/)
-* [Skillotron QA Auto Tests](https://skillotron.com/qualifications/qa-automation)
-* [https://academybugs.com/find-bugs/](https://academybugs.com/find-bugs/)
-* [Selenium Certification Training](https://demoqa.com)
-* [Codewars](https://www.codewars.com), [HackerRank](https://www.hackerrank.com/dashboard), [Coderbyte](https://coderbyte.com), [CodinGame](https://www.codingame.com/start), [LeetCode](https://leetcode.com), [Topcoder](https://www.topcoder.com/challenges), [Project Euler](https://projecteuler.net), [CodeFights](https://codefights.com)
-* [Шесть бесплатных автоматизированных платформ для изучения программирования](https://habr.com/ru/company/hexlet/blog/432802/)
-* [Песочница и шпаргалка по изучению Python](https://habr.com/ru/post/421701/)
-* [Где порешать реальные задачи для кандидатов в Яндекc: тренировка на Codeforces и разбор](https://habr.com/ru/company/yandex/blog/493966/)
-* [touchbit/automatron - Trainer for beginner autotesters](https://github.com/touchbit/automatron)
+* [What Is Automation Testing (Ultimate Guide)](https://www.softwaretestinghelp.com/automation-testing-tutorial-1/)
+* [Top 20 Best Automation Testing Tools 2024](https://www.softwaretestinghelp.com/top-20-automation-testing-tools/)
