@@ -215,7 +215,6 @@
   * [Параллельное тестирование (Parallel testing)](avtomatizaciya-beta/parallelnoe-testirovanie-parallel-testing.md)
   * [Подкожный тест (Subcutaneous test)](avtomatizaciya-beta/podkozhnyi-test-subcutaneous-test.md)
   * [Разница между coupling и cohesion](avtomatizaciya-beta/raznica-mezhdu-coupling-i-cohesion.md)
-  * [Другое (ссылки)](avtomatizaciya-beta/drugoe-ssylki.md)
 * [AI в тестировании](ai-v-testirovanii/README.md)
   * [AI в тестировании — общее](ai-v-testirovanii/ai-v-testirovanii-obshee.md)
   * [AI Driven Development](ai-v-testirovanii/ai-driven-development.md)
