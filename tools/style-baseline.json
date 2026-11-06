@@ -1,0 +1,1768 @@
+{
+ "README.md": {
+  "S-02": 1,
+  "S-03": 2,
+  "S-06": 5,
+  "S-07": 1,
+  "S-08": 1,
+  "S-12": 1
+ },
+ "ai-v-testirovanii/agentic-development.md": {
+  "S-03": 1,
+  "S-04": 4,
+  "S-05": 30,
+  "S-10": 4,
+  "S-13": 9,
+  "S-21": 1
+ },
+ "ai-v-testirovanii/agenty-ai-instrumenty.md": {
+  "S-03": 6,
+  "S-05": 17,
+  "S-10": 5,
+  "S-13": 11,
+  "S-18": 1
+ },
+ "ai-v-testirovanii/ai-augmented-development.md": {
+  "S-03": 7,
+  "S-05": 12,
+  "S-10": 3,
+  "S-13": 8
+ },
+ "ai-v-testirovanii/ai-driven-development-lifecycle.md": {
+  "S-03": 14,
+  "S-05": 56,
+  "S-13": 11,
+  "S-21": 1
+ },
+ "ai-v-testirovanii/ai-driven-development.md": {
+  "S-04": 7,
+  "S-10": 1,
+  "S-13": 11,
+  "S-20": 4
+ },
+ "ai-v-testirovanii/ai-testirovanie-v-platformakh-vendorov.md": {
+  "S-03": 9,
+  "S-05": 98,
+  "S-13": 13
+ },
+ "ai-v-testirovanii/claude-code.md": {
+  "S-03": 1,
+  "S-05": 15,
+  "S-10": 11,
+  "S-13": 12,
+  "S-18": 1
+ },
+ "ai-v-testirovanii/context-engineering.md": {
+  "S-04": 3,
+  "S-05": 19,
+  "S-10": 5,
+  "S-13": 9
+ },
+ "ai-v-testirovanii/human-in-the-loop.md": {
+  "S-04": 4,
+  "S-05": 24,
+  "S-10": 1,
+  "S-13": 9
+ },
+ "ai-v-testirovanii/mcp-servery-dlya-testirovaniya.md": {
+  "S-03": 3,
+  "S-05": 24,
+  "S-08": 1,
+  "S-10": 8,
+  "S-13": 8,
+  "S-18": 1
+ },
+ "ai-v-testirovanii/prompt-driven-development.md": {
+  "S-03": 5,
+  "S-04": 5,
+  "S-05": 10,
+  "S-10": 4,
+  "S-13": 9
+ },
+ "ai-v-testirovanii/repl-loop.md": {
+  "S-03": 4,
+  "S-05": 13,
+  "S-10": 15,
+  "S-13": 9,
+  "S-18": 1
+ },
+ "ai-v-testirovanii/spec-driven-ai-development.md": {
+  "S-05": 17,
+  "S-10": 1,
+  "S-13": 9,
+  "S-21": 1
+ },
+ "ai-v-testirovanii/vibe-coding.md": {
+  "S-03": 1,
+  "S-05": 18,
+  "S-10": 1,
+  "S-13": 7,
+  "S-21": 1
+ },
+ "avtomatizaciya-testirovaniya/infrastruktura-i-paiplain-ci-cd.md": {
+  "S-10": 1
+ },
+ "avtomatizaciya-testirovaniya/kak-stat-avtomatizatorom-i-voprosy-s-sobesedovanii.md": {
+  "S-02": 1
+ },
+ "avtomatizaciya-testirovaniya/mutacionnoe-testirovanie-mutation-testing.md": {
+  "S-10": 1
+ },
+ "avtomatizaciya-testirovaniya/obshee.md": {
+  "S-02": 1,
+  "S-07": 21,
+  "S-08": 7,
+  "S-17": 5
+ },
+ "avtomatizaciya-testirovaniya/poleznye-ssylki.md": {
+  "S-02": 1,
+  "S-07": 1
+ },
+ "avtomatizaciya-testirovaniya/processy-i-avtomatizaciya-proekta-s-nulya.md": {
+  "S-06": 34,
+  "S-07": 9
+ },
+ "avtomatizaciya-testirovaniya/vidy-i-instrumenty-avtomatizacii.md": {
+  "S-03": 45,
+  "S-06": 180,
+  "S-09": 3,
+  "S-11": 1,
+  "S-12": 1
+ },
+ "faq-dlya-novichkov/README.md": {
+  "S-02": 1
+ },
+ "faq-dlya-novichkov/chto-dolzhen-znat-i-umet-junior-chto-sprosyat-na-sobesedovanii.md": {
+  "S-03": 6,
+  "S-06": 22,
+  "S-07": 9,
+  "S-08": 6,
+  "S-09": 1,
+  "S-19": 1
+ },
+ "faq-dlya-novichkov/gde-iskat-rabotu.md": {
+  "S-09": 2
+ },
+ "faq-dlya-novichkov/kachestva-i-navyki-kotorymi-nuzhno-obladat-testirovshiku.md": {
+  "S-02": 1,
+  "S-06": 7,
+  "S-07": 4,
+  "S-08": 2,
+  "S-09": 1
+ },
+ "faq-dlya-novichkov/kak-proiskhodit-process-naima.md": {
+  "S-06": 6,
+  "S-09": 1
+ },
+ "faq-dlya-novichkov/kak-prokhodit-sobesedovanie.md": {
+  "S-03": 4,
+  "S-06": 10,
+  "S-07": 11,
+  "S-08": 3,
+  "S-09": 1,
+  "S-19": 1
+ },
+ "faq-dlya-novichkov/kak-sostavit-rezyume.md": {
+  "S-03": 1,
+  "S-06": 1,
+  "S-07": 6,
+  "S-08": 1,
+  "S-09": 1,
+  "S-19": 1
+ },
+ "faq-dlya-novichkov/kak-vzaimodeistvovat-s-kollegami.md": {
+  "S-03": 3,
+  "S-06": 8,
+  "S-07": 6,
+  "S-08": 5,
+  "S-09": 2,
+  "S-19": 1
+ },
+ "faq-dlya-novichkov/nachalo-raboty-junior-testirovshika.md": {
+  "S-03": 3,
+  "S-06": 2,
+  "S-07": 6,
+  "S-08": 2,
+  "S-09": 1,
+  "S-19": 1
+ },
+ "faq-dlya-novichkov/oshibki-v-rabote-u-nachinayushikh-testirovshikov.md": {
+  "S-02": 1,
+  "S-07": 2,
+  "S-09": 1
+ },
+ "faq-dlya-novichkov/otvety-na-samye-populyarnye-voprosy-novichkov-v-chatakh.md": {
+  "S-03": 7,
+  "S-06": 7,
+  "S-07": 9,
+  "S-08": 8,
+  "S-09": 8,
+  "S-19": 1
+ },
+ "faq-dlya-novichkov/perspektivy-professii.md": {
+  "S-03": 2,
+  "S-06": 6,
+  "S-07": 7,
+  "S-08": 8,
+  "S-09": 2,
+  "S-19": 1
+ },
+ "faq-dlya-novichkov/s-chego-nachat-obuchenie-i-kuda-razvivatsya.md": {
+  "S-06": 6,
+  "S-07": 8,
+  "S-08": 1,
+  "S-09": 1,
+  "S-17": 1,
+  "S-19": 1
+ },
+ "kontakty.md": {
+  "S-02": 1,
+  "S-03": 1,
+  "S-11": 1,
+  "S-12": 1,
+  "S-13": 1,
+  "S-17": 1
+ },
+ "mobilnoe-testirovanie/README.md": {
+  "S-02": 1
+ },
+ "mobilnoe-testirovanie/android/README.md": {
+  "S-02": 1
+ },
+ "mobilnoe-testirovanie/android/android-debug-bridge-adb.md": {
+  "S-04": 5,
+  "S-06": 2,
+  "S-07": 2,
+  "S-09": 2,
+  "S-12": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/android/android-developer-settings.md": {
+  "S-03": 2,
+  "S-06": 25,
+  "S-08": 10,
+  "S-09": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/android/android-studio-dlya-qa.md": {
+  "S-12": 7,
+  "S-15": 1,
+  "S-16": 1,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/android/arkhitektura-android-application.md": {
+  "S-03": 17,
+  "S-06": 12,
+  "S-07": 17,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 9,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/android/arkhitektura-android-os.md": {
+  "S-02": 1,
+  "S-03": 6,
+  "S-07": 16,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/android/testirovanie-pokupok-v-android-prilozheniyakh.md": {
+  "S-03": 3,
+  "S-06": 32,
+  "S-07": 2,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 2,
+  "S-15": 1,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/ios/README.md": {
+  "S-02": 1
+ },
+ "mobilnoe-testirovanie/ios/arkhitektura-ios-application.md": {
+  "S-03": 1,
+  "S-06": 4,
+  "S-07": 4,
+  "S-09": 2,
+  "S-11": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/ios/arkhitektura-ios.md": {
+  "S-03": 8,
+  "S-06": 7,
+  "S-07": 17,
+  "S-09": 1,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/ios/ios-developer-settings.md": {
+  "S-04": 2,
+  "S-06": 8,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/ios/testirovanie-pokupok-v-ios-prilozheniyakh.md": {
+  "S-06": 1,
+  "S-07": 2,
+  "S-09": 2,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/kak-protestirovat-prilozhenie-dlya-drugoi-strany.md": {
+  "S-02": 1,
+  "S-06": 3,
+  "S-09": 1,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/kak-proverit-ispolzovanie-resursov-na-android.md": {
+  "S-02": 1,
+  "S-06": 1,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/kak-uspeshno-zarelizit-produkt-v-app-store-i-google-play.md": {
+  "S-03": 4,
+  "S-06": 16,
+  "S-07": 12,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/kakim-obrazom-testirovshik-poluchaet-prilozhenie-na-test.md": {
+  "S-03": 2,
+  "S-06": 8,
+  "S-09": 1,
+  "S-16": 1,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/middleware.md": {
+  "S-02": 1,
+  "S-06": 13,
+  "S-07": 7,
+  "S-09": 1,
+  "S-11": 1,
+  "S-14": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/osnovnye-proverki-pri-testirovanii-mobilnogo-prilozheniya.md": {
+  "S-02": 1,
+  "S-03": 1,
+  "S-06": 66,
+  "S-07": 2,
+  "S-09": 2,
+  "S-11": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/osnovnye-razlichiya-android-ios.md": {
+  "S-06": 12,
+  "S-07": 4,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/osobennosti-v-testirovanii-mobilnykh-prilozhenii.md": {
+  "S-03": 1,
+  "S-06": 17,
+  "S-07": 1,
+  "S-08": 1,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/pokrytie-devaisov.md": {
+  "S-03": 4,
+  "S-06": 9,
+  "S-07": 4,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/poslednee-obnovlenie-android-ios-chto-novogo.md": {
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/simulyatory-i-emulyatory.md": {
+  "S-07": 2,
+  "S-09": 1,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/testirovanie-dip-linkov-mobile-deep-links.md": {
+  "S-03": 2,
+  "S-06": 6,
+  "S-07": 1,
+  "S-08": 1,
+  "S-09": 1,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/testirovanie-prosmotrennykh-tovarov.md": {
+  "S-03": 2,
+  "S-06": 3,
+  "S-07": 2,
+  "S-09": 1,
+  "S-18": 1
+ },
+ "mobilnoe-testirovanie/testirovanie-push-uvedomlenii.md": {
+  "S-03": 1,
+  "S-06": 10,
+  "S-07": 7,
+  "S-08": 2,
+  "S-09": 2,
+  "S-10": 2,
+  "S-12": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/testirovanie-reklamy.md": {
+  "S-03": 2,
+  "S-06": 23,
+  "S-07": 10,
+  "S-09": 2,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/testirovanie-sokhranennykh-poiskov.md": {
+  "S-03": 16,
+  "S-06": 1,
+  "S-07": 4,
+  "S-08": 5,
+  "S-09": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/testirovanie-trebovanii-k-mobilnym-prilozheniyam.md": {
+  "S-03": 18,
+  "S-07": 4,
+  "S-09": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "mobilnoe-testirovanie/tipy-mobilnykh-prilozhenii.md": {
+  "S-02": 1,
+  "S-03": 7,
+  "S-06": 14,
+  "S-07": 17,
+  "S-08": 2,
+  "S-09": 2,
+  "S-18": 1
+ },
+ "obshee/README.md": {
+  "S-02": 1
+ },
+ "obshee/alfa-i-beta-testirovanie-alpha-testing-and-beta-testing.md": {
+  "S-07": 4,
+  "S-09": 2,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/analiz-pervoprichin-rca-root-cause-analysis.md": {
+  "S-06": 8,
+  "S-07": 10,
+  "S-08": 4,
+  "S-09": 2,
+  "S-11": 2,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/biznes-logika-business-logic.md": {
+  "S-07": 2,
+  "S-09": 1,
+  "S-18": 1
+ },
+ "obshee/defekty-i-oshibki.md": {
+  "S-03": 8,
+  "S-06": 59,
+  "S-07": 7,
+  "S-08": 7,
+  "S-09": 2,
+  "S-11": 2,
+  "S-17": 8,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/ekonomika-testirovaniya-stoimost-kachestva-cost-of-quality.md": {
+  "S-03": 7,
+  "S-06": 11,
+  "S-07": 29,
+  "S-09": 2,
+  "S-11": 6,
+  "S-17": 7,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/evristiki-i-mnemoniki.md": {
+  "S-06": 38,
+  "S-07": 5,
+  "S-08": 2,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/impakt-analiz-analiz-vliyaniya-impact-analysis.md": {
+  "S-06": 7,
+  "S-07": 1,
+  "S-08": 1,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/kachestvo-po-software-quality.md": {
+  "S-03": 1,
+  "S-06": 7,
+  "S-07": 1,
+  "S-08": 4,
+  "S-09": 2,
+  "S-17": 7,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/model-zrelosti-vozmozhnostei-cmm-capability-maturity-model.md": {
+  "S-07": 6,
+  "S-09": 2,
+  "S-17": 3,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/nezavisimoe-testirovanie-independent-testing.md": {
+  "S-07": 4,
+  "S-08": 1,
+  "S-09": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/pochemu-trebuetsya-testirovanie-po.md": {
+  "S-06": 3,
+  "S-08": 2,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/podkhod-k-testirovaniyu-test-approach.md": {
+  "S-06": 7,
+  "S-07": 4,
+  "S-09": 1,
+  "S-17": 3,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/politika-otsutstviya-bagov-zbp-zero-bug-policy.md": {
+  "S-06": 4,
+  "S-07": 1,
+  "S-09": 2,
+  "S-18": 1
+ },
+ "obshee/principy-testirovaniya.md": {
+  "S-02": 1,
+  "S-03": 1,
+  "S-06": 1,
+  "S-07": 5,
+  "S-08": 1,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/process-testirovaniya-test-process-draft.md": {
+  "S-03": 10,
+  "S-06": 15,
+  "S-07": 16,
+  "S-08": 4,
+  "S-09": 2,
+  "S-11": 1,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/qa-qc-testing.md": {
+  "S-02": 1,
+  "S-03": 5,
+  "S-06": 6,
+  "S-07": 11,
+  "S-08": 3,
+  "S-09": 2,
+  "S-17": 5,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/roli-dolzhnosti-v-komande.md": {
+  "S-02": 1,
+  "S-06": 6,
+  "S-07": 3,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 1,
+  "S-12": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/sereznost-i-prioritet-defekta-severity-and-priority.md": {
+  "S-03": 1,
+  "S-06": 17,
+  "S-07": 7,
+  "S-08": 1,
+  "S-09": 2,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/tekhniki-ocenki-testov-ocenka-trudozatrat-na-testirovanie-test-estimation.md": {
+  "S-06": 58,
+  "S-07": 23,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 3,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/testirovanie-so-sdvigom-vlevo-shift-left-testing.md": {
+  "S-07": 3,
+  "S-09": 1,
+  "S-11": 1,
+  "S-18": 1
+ },
+ "obshee/testovaya-sreda-i-testovyi-stend-test-environment-test-bed.md": {
+  "S-06": 1,
+  "S-07": 8,
+  "S-09": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "obshee/verifikaciya-i-validaciya-verification-and-validation.md": {
+  "S-07": 6,
+  "S-08": 3,
+  "S-09": 2,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "poleznye-ssylki/README.md": {
+  "S-02": 1
+ },
+ "poleznye-ssylki/spisok-poleznykh-resursov-na-raznykh-platformakh.md": {
+  "S-03": 10,
+  "S-06": 4,
+  "S-07": 43,
+  "S-08": 15,
+  "S-09": 1,
+  "S-19": 1
+ },
+ "poleznye-ssylki/spisok-resursov-po-instrumentam-testirovshika.md": {
+  "S-03": 17,
+  "S-07": 88,
+  "S-08": 9,
+  "S-09": 2,
+  "S-17": 1,
+  "S-19": 1
+ },
+ "prakticheskaya-chast/README.md": {
+  "S-02": 1
+ },
+ "prakticheskaya-chast/checklist-podgotovki-k-sobesedovaniu-kak-interviewer.md": {
+  "S-02": 1,
+  "S-05": 13,
+  "S-07": 2
+ },
+ "prakticheskaya-chast/logicheskie-zadachi.md": {
+  "S-02": 1,
+  "S-07": 4,
+  "S-08": 1,
+  "S-09": 1,
+  "S-19": 1
+ },
+ "prakticheskaya-chast/platformy-dlya-trenirovok-i-kvizy.md": {
+  "S-02": 1
+ },
+ "prakticheskaya-chast/primery-zadach-na-sobesedovaniyakh-i-testovykh-zadanii.md": {
+  "S-02": 1,
+  "S-06": 16,
+  "S-07": 7,
+  "S-08": 1,
+  "S-09": 1,
+  "S-11": 8,
+  "S-12": 5,
+  "S-19": 1
+ },
+ "prakticheskaya-chast/testirovanie-polei-i-form.md": {
+  "S-07": 3,
+  "S-08": 1,
+  "S-09": 1,
+  "S-19": 1
+ },
+ "sdlc-i-stlc/README.md": {
+  "S-02": 1
+ },
+ "sdlc-i-stlc/agile.md": {
+  "S-03": 4,
+  "S-06": 24,
+  "S-07": 19,
+  "S-08": 1,
+  "S-09": 2,
+  "S-14": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "sdlc-i-stlc/modeli-razrabotki-po.md": {
+  "S-03": 3,
+  "S-06": 3,
+  "S-07": 4,
+  "S-08": 2,
+  "S-09": 2,
+  "S-11": 7,
+  "S-12": 5,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "sdlc-i-stlc/podkhody-k-razrabotke-testirovaniyu-...-driven-development-testing.md": {
+  "S-06": 11,
+  "S-07": 13,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "sdlc-i-stlc/scrum.md": {
+  "S-03": 6,
+  "S-06": 24,
+  "S-07": 4,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "sdlc-i-stlc/zhiznennyi-cikl-razrabotki-po-sdlc-software-development-lifecycle.md": {
+  "S-03": 1,
+  "S-06": 15,
+  "S-07": 3,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "sdlc-i-stlc/zhiznennyi-cikl-testirovaniya-po-stlc-software-testing-lifecycle.md": {
+  "S-03": 4,
+  "S-06": 7,
+  "S-07": 6,
+  "S-09": 2,
+  "S-11": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/README.md": {
+  "S-02": 1
+ },
+ "seti-i-okolo-nikh/autentifikaciya-i-avtorizaciya-authentication-and-authorization.md": {
+  "S-03": 7,
+  "S-06": 4,
+  "S-07": 24,
+  "S-08": 1,
+  "S-09": 1,
+  "S-11": 3,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/baza-po-setyam.md": {
+  "S-03": 7,
+  "S-06": 1,
+  "S-07": 5,
+  "S-08": 11,
+  "S-09": 2,
+  "S-11": 6,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/etalonnye-modeli-osi-i-tcp-ip.md": {
+  "S-03": 6,
+  "S-06": 4,
+  "S-07": 10,
+  "S-08": 2,
+  "S-09": 2,
+  "S-11": 1,
+  "S-12": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/http.md": {
+  "S-03": 9,
+  "S-06": 24,
+  "S-07": 36,
+  "S-09": 2,
+  "S-11": 1,
+  "S-14": 16,
+  "S-15": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/identifikaciya-resursov-v-seti-identifying-resources-on-the-web.md": {
+  "S-03": 7,
+  "S-06": 4,
+  "S-07": 17,
+  "S-08": 5,
+  "S-09": 2,
+  "S-11": 6,
+  "S-12": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/kesh-cache.md": {
+  "S-03": 21,
+  "S-06": 1,
+  "S-07": 10,
+  "S-09": 2,
+  "S-11": 1,
+  "S-12": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/khranilishe-na-storone-klienta-client-side-storage.md": {
+  "S-03": 8,
+  "S-06": 11,
+  "S-07": 12,
+  "S-09": 2,
+  "S-14": 1,
+  "S-15": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/klient-servernaya-arkhitektura-client-server-architecture.md": {
+  "S-03": 7,
+  "S-06": 1,
+  "S-07": 14,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 3,
+  "S-12": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/mikroservisnaya-arkhitektura-microservice-architecture.md": {
+  "S-03": 2,
+  "S-06": 5,
+  "S-07": 4,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/rendering-v-internete-rendering-on-the-web.md": {
+  "S-03": 11,
+  "S-06": 7,
+  "S-07": 21,
+  "S-09": 2,
+  "S-11": 9,
+  "S-12": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/rest-soap-grpc.md": {
+  "S-03": 4,
+  "S-06": 3,
+  "S-07": 15,
+  "S-08": 1,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/socket-websocket/README.md": {
+  "S-02": 1
+ },
+ "seti-i-okolo-nikh/socket-websocket/soket-veb-soket-socket-websocket.md": {
+  "S-03": 5,
+  "S-06": 10,
+  "S-07": 12,
+  "S-09": 2,
+  "S-14": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "seti-i-okolo-nikh/socket-websocket/testirovanie-websocket-na-klientakh.md": {
+  "S-04": 3,
+  "S-12": 22,
+  "S-13": 2,
+  "S-15": 1,
+  "S-18": 1
+ },
+ "seti-i-okolo-nikh/veb-servis-ws-web-service.md": {
+  "S-03": 2,
+  "S-06": 8,
+  "S-07": 12,
+  "S-09": 2,
+  "S-11": 1,
+  "S-14": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "test-dizain/README.md": {
+  "S-02": 1
+ },
+ "test-dizain/dynamic-black-box.md": {
+  "S-03": 12,
+  "S-06": 43,
+  "S-07": 45,
+  "S-08": 11,
+  "S-09": 2,
+  "S-11": 5,
+  "S-17": 11,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "test-dizain/dynamic-experience-based.md": {
+  "S-03": 3,
+  "S-06": 11,
+  "S-07": 4,
+  "S-08": 1,
+  "S-09": 1,
+  "S-17": 2,
+  "S-18": 1
+ },
+ "test-dizain/dynamic-white-box.md": {
+  "S-03": 4,
+  "S-06": 16,
+  "S-07": 19,
+  "S-08": 7,
+  "S-09": 2,
+  "S-17": 8,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "test-dizain/static-reviews.md": {
+  "S-06": 13,
+  "S-07": 7,
+  "S-09": 2,
+  "S-11": 2,
+  "S-12": 1,
+  "S-17": 5,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "test-dizain/static-static-analysis.md": {
+  "S-03": 3,
+  "S-06": 21,
+  "S-07": 17,
+  "S-08": 3,
+  "S-09": 2,
+  "S-14": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "test-dizain/test-dizain-i-tekhniki-test-dizaina-test-design-and-software-testing-techniques.md": {
+  "S-03": 1,
+  "S-06": 28,
+  "S-07": 17,
+  "S-08": 5,
+  "S-09": 2,
+  "S-17": 3,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/README.md": {
+  "S-02": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/drugoe.md": {
+  "S-02": 1,
+  "S-07": 4,
+  "S-18": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-bankovskogo-po-banking-domain-applications-bfsi.md": {
+  "S-03": 3,
+  "S-06": 112,
+  "S-07": 4,
+  "S-09": 2,
+  "S-11": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-baz-dannykh-database.md": {
+  "S-03": 12,
+  "S-06": 8,
+  "S-07": 5,
+  "S-08": 1,
+  "S-09": 2,
+  "S-14": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-chat-bota-chatbot.md": {
+  "S-03": 10,
+  "S-06": 23,
+  "S-07": 21,
+  "S-09": 2,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-elektronnykh-pisem-e-mail.md": {
+  "S-03": 13,
+  "S-06": 31,
+  "S-07": 8,
+  "S-08": 1,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-igr-game-testing.md": {
+  "S-03": 12,
+  "S-06": 2,
+  "S-07": 23,
+  "S-08": 25,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-internet-magazina-ecommerce.md": {
+  "S-03": 9,
+  "S-06": 111,
+  "S-07": 6,
+  "S-08": 1,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-interneta-veshei-iot-internet-of-things.md": {
+  "S-03": 10,
+  "S-06": 24,
+  "S-07": 5,
+  "S-09": 2,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-messendzhera-messenger.md": {
+  "S-03": 8,
+  "S-06": 68,
+  "S-09": 1,
+  "S-16": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-migracii-dannykh-etl.md": {
+  "S-03": 5,
+  "S-06": 39,
+  "S-07": 8,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-mikroservisnoi-arkhitektury-msa-microservices.md": {
+  "S-03": 6,
+  "S-06": 8,
+  "S-07": 14,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-oblachnykh-reshenii-cloud-testing.md": {
+  "S-03": 2,
+  "S-06": 31,
+  "S-07": 3,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-planirovaniya-resursov-predpriyatiya-erp-enterprise-resource-planning.md": {
+  "S-03": 1,
+  "S-06": 5,
+  "S-07": 2,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-platezhnogo-shlyuza-payment-gateway.md": {
+  "S-03": 4,
+  "S-06": 46,
+  "S-07": 2,
+  "S-09": 2,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-platformy-elektronnogo-obucheniya-e-learning-platform.md": {
+  "S-03": 4,
+  "S-06": 28,
+  "S-07": 7,
+  "S-09": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-servis-orientirovannoi-arkhitektury-soa-service-oriented-architecture.md": {
+  "S-03": 11,
+  "S-06": 41,
+  "S-07": 4,
+  "S-09": 2,
+  "S-11": 3,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-sistem-roznichnoi-torgovli-pos-point-of-sale.md": {
+  "S-03": 4,
+  "S-06": 56,
+  "S-07": 3,
+  "S-09": 1,
+  "S-11": 2,
+  "S-12": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-strakhovogo-po-insurance.md": {
+  "S-03": 4,
+  "S-06": 60,
+  "S-07": 3,
+  "S-08": 6,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-v-sfere-telekommunikacii-telecom.md": {
+  "S-03": 4,
+  "S-06": 39,
+  "S-07": 1,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-veb-saita-ili-veb-prilozheniya-web-application.md": {
+  "S-03": 10,
+  "S-06": 65,
+  "S-07": 26,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-vr-programmnogo-obespecheniya.md": {
+  "S-03": 13,
+  "S-06": 11,
+  "S-07": 11,
+  "S-08": 3,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/README.md": {
+  "S-02": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/bag-report-defect-bug-report.md": {
+  "S-03": 2,
+  "S-06": 30,
+  "S-07": 4,
+  "S-08": 1,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/bazis-testirovaniya-test-basis.md": {
+  "S-06": 14,
+  "S-07": 2,
+  "S-08": 1,
+  "S-09": 1,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/chek-list-check-list.md": {
+  "S-03": 1,
+  "S-06": 4,
+  "S-07": 1,
+  "S-09": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/kriterii-priemki-acceptance-criteria.md": {
+  "S-06": 7,
+  "S-07": 7,
+  "S-08": 4,
+  "S-09": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/matrica-trassiruemosti-rtm-requirement-traceability-matrix.md": {
+  "S-03": 1,
+  "S-06": 8,
+  "S-07": 1,
+  "S-09": 2,
+  "S-11": 1,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/metriki-testirovaniya-software-test-metrics.md": {
+  "S-03": 1,
+  "S-07": 12,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 1,
+  "S-12": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/plan-testirovaniya-test-plan.md": {
+  "S-03": 1,
+  "S-06": 17,
+  "S-07": 4,
+  "S-08": 5,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/politika-kachestva-i-politika-testirovaniya-quality-policy-and-test-policy.md": {
+  "S-06": 9,
+  "S-07": 1,
+  "S-09": 2,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/polzovatelskie-istorii-user-stories.md": {
+  "S-03": 3,
+  "S-05": 6,
+  "S-06": 3,
+  "S-07": 2,
+  "S-08": 2,
+  "S-09": 2,
+  "S-11": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/strategiya-testirovaniya-test-strategy.md": {
+  "S-06": 12,
+  "S-07": 1,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/test-keis-test-case.md": {
+  "S-03": 1,
+  "S-06": 14,
+  "S-07": 7,
+  "S-09": 2,
+  "S-17": 3,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/testovyi-orakul-test-oracle.md": {
+  "S-03": 1,
+  "S-06": 5,
+  "S-07": 2,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/testovyi-scenarii-test-scenario.md": {
+  "S-03": 1,
+  "S-06": 4,
+  "S-07": 2,
+  "S-09": 2,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/trebovaniya-requirements.md": {
+  "S-03": 4,
+  "S-06": 58,
+  "S-07": 32,
+  "S-08": 6,
+  "S-09": 2,
+  "S-11": 1,
+  "S-12": 1,
+  "S-17": 7,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/vidy-otchetov-reports.md": {
+  "S-03": 7,
+  "S-06": 4,
+  "S-07": 4,
+  "S-09": 2,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "testovaya-dokumentaciya-i-artefakty-test-deliverablestest-artifacts/vidy-testovoi-dokumentacii.md": {
+  "S-03": 1,
+  "S-06": 30,
+  "S-07": 6,
+  "S-08": 5,
+  "S-09": 2,
+  "S-11": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/a-b-testirovanie-a-b-testing.md": {
+  "S-03": 2,
+  "S-06": 17,
+  "S-07": 9,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/destruktivnoe-i-nedestruktivnoe-testirovanie-dt-destructive-testing-and-ndt-non-destructive-tes.md": {
+  "S-06": 5,
+  "S-07": 3,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/etalonnoe-i-bazovoe-testirovanie-benchmark-and-baseline-testing.md": {
+  "S-03": 1,
+  "S-07": 3,
+  "S-09": 1,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/fazzing-testirovanie-fuzz-testing.md": {
+  "S-06": 6,
+  "S-07": 3,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/funkcionalnoe-testirovanie-functional-behavioral-testing.md": {
+  "S-03": 5,
+  "S-06": 20,
+  "S-07": 1,
+  "S-09": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/installyacionnoe-testirovanie-installation-testing.md": {
+  "S-03": 5,
+  "S-06": 32,
+  "S-08": 2,
+  "S-09": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/integracionnoe-testirovanie-integration-testing.md": {
+  "S-03": 4,
+  "S-06": 34,
+  "S-07": 7,
+  "S-08": 2,
+  "S-09": 2,
+  "S-17": 6,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/issledovatelskoe-testirovanie-exploratory-testing.md": {
+  "S-03": 2,
+  "S-06": 8,
+  "S-07": 9,
+  "S-08": 3,
+  "S-09": 2,
+  "S-11": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/kak-protestirovat-produkt-bez-trebovanii.md": {
+  "S-09": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/konfiguracionnoe-testirovanie-configuration-testing.md": {
+  "S-03": 2,
+  "S-06": 15,
+  "S-07": 3,
+  "S-08": 1,
+  "S-09": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/krossbrauzernoe-testirovanie-cross-browser-testing.md": {
+  "S-03": 1,
+  "S-06": 14,
+  "S-07": 2,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/metody-testirovaniya-white-black-grey-box.md": {
+  "S-09": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/modulnoe-yunit-komponentnoe-testirovanie-module-unit-component-testing.md": {
+  "S-06": 1,
+  "S-07": 9,
+  "S-08": 1,
+  "S-09": 2,
+  "S-17": 4,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/mozhno-li-otnesti-testirovanie-bezopasnosti-ili-nagruzochnoe-testirovanie-k-funkcionalnym-vidam-test.md": {
+  "S-07": 1,
+  "S-08": 2,
+  "S-17": 5,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/nagruzochnoe-testirovanie-load-testing.md": {
+  "S-03": 1,
+  "S-06": 6,
+  "S-07": 10,
+  "S-09": 2,
+  "S-11": 2,
+  "S-12": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/nefunkcionalnoe-testirovanie-non-functional-testing.md": {
+  "S-03": 4,
+  "S-06": 23,
+  "S-07": 1,
+  "S-09": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/obemnoe-testirovanie-volume-testing.md": {
+  "S-03": 2,
+  "S-06": 15,
+  "S-07": 1,
+  "S-09": 1,
+  "S-11": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/ocenka-uyazvimosti-zashishennosti-vulnerability-assessment.md": {
+  "S-03": 8,
+  "S-06": 34,
+  "S-07": 10,
+  "S-09": 2,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/odnovremennoe-mnogopolzovatelskoe-testirovanie-concurrency-multi-user-testing.md": {
+  "S-06": 2,
+  "S-07": 2,
+  "S-09": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/osnovnye-vidy-testirovaniya-po.md": {
+  "S-07": 2,
+  "S-08": 1,
+  "S-09": 1,
+  "S-11": 3,
+  "S-17": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/piramida-urovni-testirovaniya-test-pyramid-testing-levels.md": {
+  "S-06": 3,
+  "S-07": 7,
+  "S-09": 1,
+  "S-11": 1,
+  "S-12": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/priemochnoe-testirovanie-at-acceptance-testing.md": {
+  "S-03": 1,
+  "S-06": 7,
+  "S-07": 6,
+  "S-08": 1,
+  "S-09": 2,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/raznica-testirovaniya-po-i-zheleza-software-vs.-hardware-testing.md": {
+  "S-03": 1,
+  "S-06": 8,
+  "S-07": 2,
+  "S-08": 1,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/regressionnye-vidy-testirovaniya-regression-testing.md": {
+  "S-03": 8,
+  "S-06": 21,
+  "S-07": 17,
+  "S-08": 8,
+  "S-09": 2,
+  "S-17": 5,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/sistemnoe-testirovanie-system-testing.md": {
+  "S-03": 3,
+  "S-06": 23,
+  "S-07": 5,
+  "S-08": 1,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/staticheskoe-i-dinamicheskoe-testirovanie-static-testing-dynamic-testing.md": {
+  "S-06": 4,
+  "S-07": 1,
+  "S-09": 1,
+  "S-17": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/stressovoe-testirovanie-stress-testing.md": {
+  "S-03": 2,
+  "S-06": 13,
+  "S-07": 3,
+  "S-09": 1,
+  "S-11": 2,
+  "S-12": 2,
+  "S-15": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/svobodnoe-intuitivnoe-testirovanie-adhoc-ad-hoc-testing.md": {
+  "S-03": 1,
+  "S-06": 7,
+  "S-07": 6,
+  "S-09": 2,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-api-api-application-programming-interface.md": {
+  "S-03": 4,
+  "S-06": 34,
+  "S-07": 12,
+  "S-09": 2,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-bezopasnosti-security-and-access-control-testing.md": {
+  "S-03": 2,
+  "S-06": 22,
+  "S-07": 15,
+  "S-09": 2,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-dokumentacii-documentation-testing.md": {
+  "S-03": 1,
+  "S-07": 5,
+  "S-08": 2,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-dostupnosti-accessibility-testing.md": {
+  "S-06": 4,
+  "S-07": 7,
+  "S-09": 2,
+  "S-11": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-emkosti-capacity-testing.md": {
+  "S-07": 5,
+  "S-09": 2,
+  "S-11": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-graficheskogo-interfeisa-vizualnoe-testirovanie-gui-graphical-user-interface-testing.md": {
+  "S-03": 3,
+  "S-06": 35,
+  "S-07": 10,
+  "S-08": 1,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-kachestva-dannykh-data-quality-testing.md": {
+  "S-07": 3,
+  "S-09": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-khranilisha-storage-testing.md": {
+  "S-03": 2,
+  "S-06": 11,
+  "S-07": 2,
+  "S-09": 2,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-klientskoi-chasti-i-servernoi-frontend-testing-vs.-backend-testing.md": {
+  "S-02": 1,
+  "S-07": 1,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-lokalizacii-globalizacii-i-internacionalizacii-localization-globalization-internatio.md": {
+  "S-03": 2,
+  "S-06": 19,
+  "S-07": 9,
+  "S-08": 1,
+  "S-09": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-masshtabiruemosti-scalability-testing.md": {
+  "S-09": 1,
+  "S-11": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-metodom-belogo-yashika-white-box-testing.md": {
+  "S-03": 4,
+  "S-06": 24,
+  "S-07": 5,
+  "S-08": 1,
+  "S-09": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-metodom-chernogo-yashika-black-box-testing.md": {
+  "S-03": 2,
+  "S-06": 101,
+  "S-07": 4,
+  "S-08": 2,
+  "S-09": 1,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-metodom-serogo-yashika-grey-box-testing.md": {
+  "S-03": 1,
+  "S-06": 4,
+  "S-09": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-na-otkaz-i-vosstanovlenie-failover-and-recovery-testing.md": {
+  "S-06": 10,
+  "S-07": 1,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-na-sootvetstvie-conformance-compliance-testing.md": {
+  "S-07": 2,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-nadezhnosti-reliability-testing.md": {
+  "S-03": 2,
+  "S-06": 4,
+  "S-07": 1,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-osnovannoe-na-riskakh-risk-based-testing.md": {
+  "S-06": 2,
+  "S-07": 2,
+  "S-08": 1,
+  "S-09": 1,
+  "S-11": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-podderzhki-maintenance-testing.md": {
+  "S-03": 2,
+  "S-06": 14,
+  "S-07": 2,
+  "S-09": 2,
+  "S-17": 3,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-proizvoditelnosti-performance-testing.md": {
+  "S-03": 5,
+  "S-06": 45,
+  "S-07": 18,
+  "S-08": 1,
+  "S-09": 2,
+  "S-11": 2,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-rabochego-processa-vorkflou-workflow-testing.md": {
+  "S-06": 7,
+  "S-07": 1,
+  "S-09": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-servisa-service-testing.md": {
+  "S-06": 6,
+  "S-09": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-sovmestimosti-vzaimodeistviya-compatibility-interoperability-testing.md": {
+  "S-03": 3,
+  "S-06": 11,
+  "S-07": 7,
+  "S-09": 1,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-udobstva-polzovaniya-usability-testing.md": {
+  "S-03": 2,
+  "S-06": 8,
+  "S-07": 10,
+  "S-08": 1,
+  "S-09": 2,
+  "S-17": 1,
+  "S-18": 1,
+  "S-19": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-ustoichivosti-resilience-testing.md": {
+  "S-03": 1,
+  "S-06": 4,
+  "S-07": 1,
+  "S-09": 2,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/testirovanie-vynoslivosti-stabilnosti-endurance-soak-stability-testing.md": {
+  "S-09": 1,
+  "S-11": 1,
+  "S-17": 1,
+  "S-18": 1
+ },
+ "vidy-metody-urovni-testirovaniya/vyborochnoe-khaoticheskoe-testirovanie-random-monkey-testing.md": {
+  "S-06": 4,
+  "S-07": 1,
+  "S-09": 2,
+  "S-17": 2,
+  "S-18": 1,
+  "S-19": 1
+ }
+}

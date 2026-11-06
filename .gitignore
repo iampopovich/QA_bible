@@ -1,0 +1,4 @@
+# Кэш проверок tools/links.py
+.cache/
+__pycache__/
+*.pyc

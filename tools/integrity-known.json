@@ -1,0 +1,22 @@
+[
+ {
+  "id": "I-02",
+  "path": "prakticheskaya-chast/checklist-podgotovki-k-sobesedovaniu-kak-interviewer.md",
+  "message": "страница не внесена в SUMMARY.md и не публикуется"
+ },
+ {
+  "id": "I-04",
+  "path": "mobilnoe-testirovanie/android/android-studio-dlya-qa.md",
+  "message": "битая ссылка ../mobilnoe-testirovanie/simulyatory-i-emulyatory.md"
+ },
+ {
+  "id": "I-04",
+  "path": "mobilnoe-testirovanie/kakim-obrazom-testirovshik-poluchaet-prilozhenie-na-test.md",
+  "message": "битая ссылка android-debug-bridge-adb (нет расширения .md?)"
+ },
+ {
+  "id": "I-04",
+  "path": "testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/testirovanie-messendzhera-messenger.md",
+  "message": "битая ссылка ../mobilnoe-testirovanie/testirovanie-push-uvedomlenii (нет расширения .md?)"
+ }
+]
