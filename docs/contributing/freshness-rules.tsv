@@ -1,0 +1,16 @@
+# шаблон пути (fnmatch)	класс	срок, мес	почему
+ai-v-testirovanii/*	A	6	модели, агенты и инструменты AI меняются за месяцы
+avtomatizaciya-testirovaniya/vidy-i-instrumenty-avtomatizacii.md	A	6	версии и рейтинг фреймворков
+avtomatizaciya-testirovaniya/instrumenty-api-testirovaniya.md	A	6	обзор инструментов
+avtomatizaciya-testirovaniya/vizualnoe-regressionnoe-testirovanie.md	A	6	обзор SaaS-инструментов
+avtomatizaciya-testirovaniya/infrastruktura-i-paiplain-ci-cd.md	A	6	версии CI и образов
+avtomatizaciya-testirovaniya/poleznye-ssylki.md	A	6	подборка ссылок
+poleznye-ssylki/*	A	6	подборки ссылок, линк-рот
+mobilnoe-testirovanie/poslednee-obnovlenie-android-ios-chto-novogo.md	A	6	новые версии ОС
+mobilnoe-testirovanie/*	B	12	ежегодные релизы Android/iOS, правила сторов
+avtomatizaciya-testirovaniya/*	B	12	практики и инструменты автоматизации
+faq-dlya-novichkov/*	B	12	рынок труда, найм, площадки поиска работы
+prakticheskaya-chast/*	B	12	тренажёры и задания со ссылками
+testirovanie-v-raznykh-sferakh-oblastyakh-testing-different-domains/*	B	12	доменные требования и регуляторика
+seti-i-okolo-nikh/*	C	36	протоколы стабильны; ссылки — по links.py
+*	C	36	теория тестирования, ISTQB-понятия
